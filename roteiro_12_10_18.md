@@ -20,12 +20,11 @@ A reunião começa com a gnt mostrando o estado atual da EJ, análise do 2018:
 - Formulário para quem quer continuar na EJ
 - Formulário para quem quer fazer chapa para diretoria
 
+-----
 
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-PÓS ASSEMBLÉIA:
+## PÓS ASSEMBLÉIA:
 
 Reunião com quem ficou para definir o 2019:
+
 	- Definir o que será aprendido pelos membros da EJ --- Consenso
 	- Definir que os membros tem q estarem dispostos a gastar tempo inclusive nos sábados
-	
