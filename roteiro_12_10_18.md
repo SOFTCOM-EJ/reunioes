@@ -1,24 +1,24 @@
-Assembléia:
+# Assembléia:
 
 A reunião começa com a gnt mostrando o estado atual da EJ, análise do 2018:
-	- Comentar sobre o estado atual:	
-		- Falar sobre a questão burocrática em detalhes
-		- Falar sobre a Themis, explicar o que proporam e como vai nos ajudar
-		- Falar sobre a organização e citar quem está alocado onde
-		- Falar sobre a dificuldade de organizar, reuniões devido ao tempo disponível 
+- Comentar sobre o estado atual:	
+	- Falar sobre a questão burocrática em detalhes
+	- Falar sobre a Themis, explicar o que proporam e como vai nos ajudar
+	- Falar sobre a organização e citar quem está alocado onde
+	- Falar sobre a dificuldade de organizar, reuniões devido ao tempo disponível 
+
+- Comentar sobre o período eleitoral, falar da propostra que temos no momento mas abrir o direito pra eles fazerem uma chapa tb (Possibilidade de outra reunião
+									para a eleição).
 	
-	- Comentar sobre o período eleitoral, falar da propostra que temos no momento mas abrir o direito pra eles fazerem uma chapa tb (Possibilidade de outra reunião
-										para a eleição).
-		
-	- Falar que vamos "retomar o norte" pra resolver o seguinte:
-		- Resolver burocracia antes de qualquer coisa
-		- Organizar a carta de serviço	
-		
+- Falar que vamos "retomar o norte" pra resolver o seguinte:
+	- Resolver burocracia antes de qualquer coisa
+	- Organizar a carta de serviço	
 	
-		
+
 	
-	- Formulário para quem quer continuar na EJ
-	- Formulário para quem quer fazer chapa para diretoria
+
+- Formulário para quem quer continuar na EJ
+- Formulário para quem quer fazer chapa para diretoria
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
