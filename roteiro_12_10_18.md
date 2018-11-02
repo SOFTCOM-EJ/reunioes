@@ -11,11 +11,11 @@ A reunião começa com a gnt mostrando o estado atual da EJ, análise do 2018:
 para a eleição).
 
 - Falar que vamos "retomar o norte" pra resolver o seguinte:
-- Resolver burocracia antes de qualquer coisa
-- Organizar a carta de serviço
+	- Resolver burocracia antes de qualquer coisa
+	- Organizar a carta de serviço
 
-- Formulário para quem quer continuar na EJ
-- Formulário para quem quer fazer chapa para diretoria
+	- Formulário para quem quer continuar na EJ
+	- Formulário para quem quer fazer chapa para diretoria
 
 -----
 
@@ -30,7 +30,7 @@ Reunião com quem ficou para definir o 2019:
 
 ## Chamada WhatsApp
 
-Boa __saudação__ membros da EJ,
+Boa _saudação_ membros da EJ,
 
 Há a necessidade de marcamos uma reunião para acertamos o rumo da SOFTCOM, no dia 12/11/18 às 17h30. Segue o link da pauta.
 
